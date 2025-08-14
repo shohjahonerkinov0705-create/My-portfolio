@@ -1,0 +1,10 @@
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Radial blur background blobs */
+.blob {
+  filter: blur(32px);
+  opacity: 0.5;
+}
